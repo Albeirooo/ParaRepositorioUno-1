@@ -5,5 +5,5 @@ public class Uno {
 	int propCuatro;
 	int propSeis;
 	int propSiete;
-	int prep;
+	int prepo;
 }
